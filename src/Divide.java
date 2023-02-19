@@ -14,14 +14,14 @@ public class Divide {
     }
 
     public void divide(int firstNumber, int secondNumber) throws CannotDivideBy0Exception{
-        int i = firstNumber;
-        int k = secondNumber;
-        if (k != 0 ){
-            float fi = i;
-            float fk = k;
+
+        if (secondNumber != 0 ){
+            float fi = firstNumber;
+            float fk = secondNumber;
             float division = fi/fk;
-        System.out.println(division);}
-        else {
+        System.out.println(division);
+
+        } else {
             throw new CannotDivideBy0Exception("Zero cannot divide any number!");
         }
     }
@@ -32,13 +32,8 @@ public class Divide {
     }
 }
 
-/* TÖÖTAV KOOD
+/* IFig TÖÖTAV KOOD
 public class Divide {
-
-    // Create the "divide" method which has to divide the two numbers that are the attributes on the method.
-     //In case the second parameter of the method is 0,
-     //a non-default exceptions should be thrown: CannotDivideBy0Exception.
-
     public int firstNumber; //instance field
     public int secondNumber;
 
@@ -51,13 +46,9 @@ public class Divide {
         int i = firstNumber;
         int k = secondNumber;
         if (k == 0)
-
-        // throw new CannotDivideBy0Exception("Zero cannot divide any number!");
-
         {
             System.out.println("Zero cannot divide any number!");
-        }
-        else {
+        } else {
             float fi = i;
             float fk = k;
             float division = fi/fk;
@@ -65,9 +56,7 @@ public class Divide {
             }
     }
 
-    // kas selle ( CannotDivideBy0Exception) klassi kasutamiseks on vaja mõni raamatukogu alla laadida?
-
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         Divide testDivide = new Divide(0,0);
         testDivide.divide(10, 2);
     }
