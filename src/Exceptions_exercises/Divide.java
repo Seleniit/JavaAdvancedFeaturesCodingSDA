@@ -1,3 +1,4 @@
+package Exceptions_exercises;
 /* Create the "divide" method which has to divide the two numbers
     that are the attributes on the method.
     In case the second parameter of the method is 0,
@@ -13,7 +14,7 @@ public class Divide {
         this.secondNumber = secondNumber;
     }
 
-    public void divide(int firstNumber, int secondNumber) throws CannotDivideBy0Exception{
+    public void divide(int firstNumber, int secondNumber) throws CannotDivideBy0Exception {
 
         if (secondNumber != 0 ){
             float fi = firstNumber;

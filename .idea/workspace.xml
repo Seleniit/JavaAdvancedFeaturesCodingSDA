@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5965dffb-9c95-48a4-b264-8034b5f884f2" name="Changes" comment="Exception gives an error">
+    <list default="true" id="5965dffb-9c95-48a4-b264-8034b5f884f2" name="Changes" comment="Exception gives an error still">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_exercises/CannotDivideBy0Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions_exercises/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/CircleT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/RectangleT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ShapeT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/SquareT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task1_Point2DPoint3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task2_PersonStudentLecture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task3_ShapeCircleRectangle_Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task4_ShapeT4CircleT4RectangleT4_SquareT4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Divide.java" afterDir="false" />
     </list>
@@ -36,9 +57,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Kasutaja/IdeaProjects/Java fundamentals"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Kasutaja/IdeaProjects/JavaAdvansedFeaturesAndCoding18_02_23/src/Exceptions_exercises"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kasutaja\IdeaProjects\JavaAdvansedFeaturesAndCoding18_02_23\src\Exceptions_exercises" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +81,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1676800857253</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Exception gives an error still">
+      <created>1676802596138</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1676802596138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exception gives an error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception gives an error" />
+    <MESSAGE value="Exception gives an error still" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception gives an error still" />
   </component>
 </project>
